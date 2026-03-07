@@ -6,6 +6,7 @@ leetcode
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karmakondakeerthana/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Greedy
@@ -16,8 +17,18 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/karmakondakeerthana/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/karmakondakeerthana/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->

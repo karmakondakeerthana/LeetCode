@@ -16,11 +16,13 @@ leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/karmakondakeerthana/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/karmakondakeerthana/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 ## Depth-First Search
@@ -30,5 +32,10 @@ leetcode
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->

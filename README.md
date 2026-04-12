@@ -9,6 +9,7 @@ leetcode
 | [0005-longest-palindromic-substring](https://github.com/karmakondakeerthana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karmakondakeerthana/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karmakondakeerthana/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -90,6 +91,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karmakondakeerthana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/karmakondakeerthana/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/karmakondakeerthana/LeetCode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/karmakondakeerthana/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |

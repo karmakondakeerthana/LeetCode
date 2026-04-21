@@ -38,6 +38,7 @@ leetcode
 | [0051-n-queens](https://github.com/karmakondakeerthana/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/karmakondakeerthana/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/karmakondakeerthana/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/karmakondakeerthana/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/karmakondakeerthana/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/karmakondakeerthana/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -71,6 +72,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/karmakondakeerthana/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,6 +184,7 @@ leetcode
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/karmakondakeerthana/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/karmakondakeerthana/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |

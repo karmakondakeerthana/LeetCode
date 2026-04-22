@@ -74,6 +74,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
+| [0210-course-schedule-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/karmakondakeerthana/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -202,4 +203,16 @@ leetcode
 | ------- | ------- |
 | [2075-decode-the-slanted-ciphertext](https://github.com/karmakondakeerthana/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/karmakondakeerthana/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0210-course-schedule-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 <!---LeetCode Topics End-->

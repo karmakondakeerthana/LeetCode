@@ -38,6 +38,7 @@ leetcode
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/karmakondakeerthana/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0051-n-queens](https://github.com/karmakondakeerthana/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0396-rotate-function](https://github.com/karmakondakeerthana/LeetCode/tree/main/0396-rotate-function/) | Medium |
@@ -91,6 +92,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [0048-rotate-image](https://github.com/karmakondakeerthana/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -161,6 +163,7 @@ leetcode
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/karmakondakeerthana/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/karmakondakeerthana/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [1622-fancy-sequence](https://github.com/karmakondakeerthana/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |

@@ -49,6 +49,7 @@ leetcode
 | [1727-largest-submatrix-with-rearrangements](https://github.com/karmakondakeerthana/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/karmakondakeerthana/LeetCode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/karmakondakeerthana/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/karmakondakeerthana/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/karmakondakeerthana/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -98,6 +99,7 @@ leetcode
 | [1559-detect-cycles-in-2d-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/karmakondakeerthana/LeetCode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/karmakondakeerthana/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1861-rotating-the-box](https://github.com/karmakondakeerthana/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/karmakondakeerthana/LeetCode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/karmakondakeerthana/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -207,6 +209,7 @@ leetcode
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karmakondakeerthana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/karmakondakeerthana/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1861-rotating-the-box](https://github.com/karmakondakeerthana/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/karmakondakeerthana/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |

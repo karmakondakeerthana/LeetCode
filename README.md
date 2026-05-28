@@ -25,6 +25,7 @@ leetcode
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Greedy
@@ -81,6 +82,7 @@ leetcode
 | [2784-check-if-array-is-good](https://github.com/karmakondakeerthana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/karmakondakeerthana/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/karmakondakeerthana/LeetCode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/karmakondakeerthana/LeetCode/tree/main/3225-maximum-score-from-grid-operations/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/karmakondakeerthana/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -198,6 +200,7 @@ leetcode
 | [0014-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/karmakondakeerthana/LeetCode/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
+| [3093-longest-common-suffix-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |

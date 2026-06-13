@@ -28,6 +28,7 @@ leetcode
 | [3093-longest-common-suffix-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@ leetcode
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/karmakondakeerthana/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3742-maximum-path-score-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/karmakondakeerthana/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@ leetcode
 | [2075-decode-the-slanted-ciphertext](https://github.com/karmakondakeerthana/LeetCode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/karmakondakeerthana/LeetCode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/karmakondakeerthana/LeetCode/tree/main/2751-robot-collisions/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |

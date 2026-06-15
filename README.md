@@ -272,6 +272,7 @@ leetcode
 | [0005-longest-palindromic-substring](https://github.com/karmakondakeerthana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/karmakondakeerthana/LeetCode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/karmakondakeerthana/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karmakondakeerthana/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/karmakondakeerthana/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/karmakondakeerthana/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
@@ -336,4 +337,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karmakondakeerthana/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->

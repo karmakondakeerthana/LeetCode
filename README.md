@@ -10,6 +10,7 @@ leetcode
 | [0014-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0796-rotate-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/karmakondakeerthana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karmakondakeerthana/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -150,6 +151,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [1189-maximum-number-of-balloons](https://github.com/karmakondakeerthana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/karmakondakeerthana/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/karmakondakeerthana/LeetCode/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -328,6 +330,7 @@ leetcode
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/karmakondakeerthana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/karmakondakeerthana/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |

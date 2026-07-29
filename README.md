@@ -29,6 +29,7 @@ leetcode
 | [3093-longest-common-suffix-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -165,6 +166,7 @@ leetcode
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3548-equal-sum-grid-partition-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -233,6 +235,7 @@ leetcode
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/karmakondakeerthana/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karmakondakeerthana/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/karmakondakeerthana/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/karmakondakeerthana/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -344,6 +347,7 @@ leetcode
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/karmakondakeerthana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/karmakondakeerthana/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
@@ -369,4 +373,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 <!---LeetCode Topics End-->

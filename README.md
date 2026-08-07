@@ -28,6 +28,7 @@ leetcode
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -43,6 +44,7 @@ leetcode
 | [2126-destroying-asteroids](https://github.com/karmakondakeerthana/LeetCode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/karmakondakeerthana/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/karmakondakeerthana/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Array
 | Problem Name | Difficulty |
@@ -118,6 +120,7 @@ leetcode
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karmakondakeerthana/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +238,7 @@ leetcode
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/karmakondakeerthana/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/karmakondakeerthana/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/karmakondakeerthana/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -358,6 +362,7 @@ leetcode
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |

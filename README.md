@@ -7,6 +7,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/karmakondakeerthana/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/karmakondakeerthana/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0014-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0796-rotate-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/0796-rotate-string/) | Easy |

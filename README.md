@@ -35,6 +35,7 @@ leetcode
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ leetcode
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/karmakondakeerthana/LeetCode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ leetcode
 | [3548-equal-sum-grid-partition-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karmakondakeerthana/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/karmakondakeerthana/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Dynamic Programming
@@ -314,6 +317,7 @@ leetcode
 | [3345-smallest-divisible-digit-product-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,6 +367,7 @@ leetcode
 | [1189-maximum-number-of-balloons](https://github.com/karmakondakeerthana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/karmakondakeerthana/LeetCode/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |

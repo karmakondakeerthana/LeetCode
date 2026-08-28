@@ -36,6 +36,7 @@ leetcode
 | [3612-process-string-with-special-operations-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -311,6 +312,7 @@ leetcode
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/karmakondakeerthana/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2540-minimum-common-value](https://github.com/karmakondakeerthana/LeetCode/tree/main/2540-minimum-common-value/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/karmakondakeerthana/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +320,7 @@ leetcode
 | [3546-equal-sum-grid-partition-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |

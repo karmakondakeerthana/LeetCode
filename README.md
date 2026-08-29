@@ -97,6 +97,7 @@ leetcode
 | [2751-robot-collisions](https://github.com/karmakondakeerthana/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/karmakondakeerthana/LeetCode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/karmakondakeerthana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karmakondakeerthana/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/karmakondakeerthana/LeetCode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/karmakondakeerthana/LeetCode/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3093-longest-common-suffix-queries/) | Hard |
@@ -300,6 +301,7 @@ leetcode
 | [2751-robot-collisions](https://github.com/karmakondakeerthana/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/karmakondakeerthana/LeetCode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karmakondakeerthana/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/karmakondakeerthana/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/karmakondakeerthana/LeetCode/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/karmakondakeerthana/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -328,6 +330,7 @@ leetcode
 | [1559-detect-cycles-in-2d-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/karmakondakeerthana/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/karmakondakeerthana/LeetCode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/karmakondakeerthana/LeetCode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

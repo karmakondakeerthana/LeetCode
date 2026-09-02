@@ -123,6 +123,7 @@ leetcode
 | [3742-maximum-path-score-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/karmakondakeerthana/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +266,7 @@ leetcode
 | [3700-number-of-zigzag-arrays-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/karmakondakeerthana/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/karmakondakeerthana/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

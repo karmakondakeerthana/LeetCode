@@ -263,6 +263,7 @@ leetcode
 | [0048-rotate-image](https://github.com/karmakondakeerthana/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/karmakondakeerthana/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1622-fancy-sequence](https://github.com/karmakondakeerthana/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
 | [1872-stone-game-viii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1872-stone-game-viii/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -401,6 +402,7 @@ leetcode
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/karmakondakeerthana/LeetCode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |

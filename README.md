@@ -12,6 +12,7 @@ leetcode
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
 | [0796-rotate-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/karmakondakeerthana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karmakondakeerthana/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -139,6 +140,7 @@ leetcode
 | [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/karmakondakeerthana/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/karmakondakeerthana/LeetCode/tree/main/0079-word-search/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karmakondakeerthana/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -180,6 +182,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/karmakondakeerthana/LeetCode/tree/main/0037-sudoku-solver/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/karmakondakeerthana/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1345-jump-game-iv](https://github.com/karmakondakeerthana/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karmakondakeerthana/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -321,6 +324,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/karmakondakeerthana/LeetCode/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/karmakondakeerthana/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karmakondakeerthana/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -370,6 +374,7 @@ leetcode
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2751-robot-collisions](https://github.com/karmakondakeerthana/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -385,6 +390,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1306-jump-game-iii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/karmakondakeerthana/LeetCode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |

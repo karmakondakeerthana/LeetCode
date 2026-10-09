@@ -20,6 +20,7 @@ leetcode
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/karmakondakeerthana/LeetCode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karmakondakeerthana/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/karmakondakeerthana/LeetCode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -50,6 +51,7 @@ leetcode
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/karmakondakeerthana/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/karmakondakeerthana/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/karmakondakeerthana/LeetCode/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/karmakondakeerthana/LeetCode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -385,6 +387,7 @@ leetcode
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/karmakondakeerthana/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/karmakondakeerthana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2751-robot-collisions](https://github.com/karmakondakeerthana/LeetCode/tree/main/2751-robot-collisions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -472,4 +475,5 @@ leetcode
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/karmakondakeerthana/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/karmakondakeerthana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 <!---LeetCode Topics End-->

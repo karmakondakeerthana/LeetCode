@@ -63,6 +63,7 @@ leetcode
 | [3348-smallest-divisible-digit-product-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/karmakondakeerthana/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/karmakondakeerthana/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -297,6 +298,7 @@ leetcode
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/karmakondakeerthana/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/karmakondakeerthana/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/karmakondakeerthana/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/karmakondakeerthana/LeetCode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/karmakondakeerthana/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |

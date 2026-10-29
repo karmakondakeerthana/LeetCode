@@ -46,6 +46,7 @@ leetcode
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/karmakondakeerthana/LeetCode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,6 +143,7 @@ leetcode
 | [3742-maximum-path-score-in-a-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/karmakondakeerthana/LeetCode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -167,6 +169,7 @@ leetcode
 | [1559-detect-cycles-in-2d-grid](https://github.com/karmakondakeerthana/LeetCode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/karmakondakeerthana/LeetCode/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karmakondakeerthana/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +283,7 @@ leetcode
 | [1009-complement-of-base-10-integer](https://github.com/karmakondakeerthana/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/karmakondakeerthana/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/karmakondakeerthana/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +341,7 @@ leetcode
 | [3161-block-placement-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -451,6 +456,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/karmakondakeerthana/LeetCode/tree/main/3161-block-placement-queries/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -460,6 +466,7 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/karmakondakeerthana/LeetCode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -486,4 +493,8 @@ leetcode
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/karmakondakeerthana/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/karmakondakeerthana/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/karmakondakeerthana/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->

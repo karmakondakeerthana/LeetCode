@@ -138,6 +138,7 @@ leetcode
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/karmakondakeerthana/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/karmakondakeerthana/LeetCode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3660-jump-game-ix](https://github.com/karmakondakeerthana/LeetCode/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/karmakondakeerthana/LeetCode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/karmakondakeerthana/LeetCode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -286,6 +287,7 @@ leetcode
 | [1009-complement-of-base-10-integer](https://github.com/karmakondakeerthana/LeetCode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/karmakondakeerthana/LeetCode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/karmakondakeerthana/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/karmakondakeerthana/LeetCode/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/karmakondakeerthana/LeetCode/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |

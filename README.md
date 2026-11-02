@@ -80,6 +80,7 @@ leetcode
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0396-rotate-function](https://github.com/karmakondakeerthana/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/karmakondakeerthana/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1306-jump-game-iii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/karmakondakeerthana/LeetCode/tree/main/1340-jump-game-v/) | Hard |
@@ -292,6 +293,7 @@ leetcode
 | [0048-rotate-image](https://github.com/karmakondakeerthana/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0396-rotate-function](https://github.com/karmakondakeerthana/LeetCode/tree/main/0396-rotate-function/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/karmakondakeerthana/LeetCode/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/karmakondakeerthana/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1622-fancy-sequence](https://github.com/karmakondakeerthana/LeetCode/tree/main/1622-fancy-sequence/) | Hard |
@@ -349,6 +351,7 @@ leetcode
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/karmakondakeerthana/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/karmakondakeerthana/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/karmakondakeerthana/LeetCode/tree/main/1340-jump-game-v/) | Hard |
